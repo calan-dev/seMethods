@@ -5,6 +5,6 @@ Hello This is my readme for Software Engineering Methods Personal Repo
 [![Releases](https://img.shields.io/github/release/calan-dev/seMethods/all.svg?style=flat-square)](https://github.com/calan-dev/seMethods/releases)
 
 # DevOps 
-![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/calan-dev/seMethods/<action name taken from main.yml>/develop?style=flat-square)
+![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/calan-dev/seMethods/main.yml?branch=develop&style=flat-square)
 
 
