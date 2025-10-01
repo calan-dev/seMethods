@@ -4,3 +4,7 @@ Hello This is my readme for Software Engineering Methods Personal Repo
 [![LICENSE](https://img.shields.io/github/license/calan-dev/seMethods.svg?style=flat-square)](https://github.com/calan-dev/seMethods/blob/master/LICENSE)
 [![Releases](https://img.shields.io/github/release/calan-dev/seMethods/all.svg?style=flat-square)](https://github.com/calan-dev/seMethods/releases)
 
+# DevOps 
+![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/calan-dev/seMethods/main.yml?branch=develop&style=flat-square)
+
+
